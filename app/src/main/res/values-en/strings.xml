@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercises</string>
+    <string name="lbl_ejercicio">Select the type of exercise</string>
+    <string name="lbl_tiempo">Write the time spent in minutes</string>
+    <string name="lbl_calorias">Write the burnt colors</string>
+    <string name="btn_agregar">Add</string>
+    <string name="btn_compartir_whatsapp">Send by WhatsApp</string>
+</resources>

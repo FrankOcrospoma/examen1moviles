@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicios</string>
+    <string name="lbl_ejercicio">Seleccione el tipo de ejercicio</string>
+    <string name="lbl_tiempo">Escriba el tiempo dedicado en minutos</string>
+    <string name="lbl_calorias">Escriba las colorias quemadas</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_compartir_whatsapp">Enviar por WhatsApp</string>
+</resources>
